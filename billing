@@ -1,2 +1,4 @@
 Git: error: pathspec ‘<GIT_BRANCH>’ did not match any file(s) known to git.Ever faced an issues while checking out to a branch that already exists.
 
+git add .: adds the entire directory recursively, including files whose names begin with a dot git add . The safest and clearest way to use git add is by designating the specific file or directory to be staged. The syntax for this could look like: Before undoing a git add, you should first be sure that you won't lose any work.
+
