@@ -4,5 +4,4 @@ Update Your Repo, Run git fetch . Read More about git fetch here
 Checkout to the remote branch git checkout <remote/BRANCH_NAME>, for example git checkout origin/master
 The HEAD will now be in a detached state. You can now checkout to a new branch or an existing one.
 Use git checkout -b <BRANCH_NAME> . Now a new branch is created.
-Set this branch track the remote. git push --set-upstream <GIT_REMOTE> <BRANCH_NAME> or simply git push -u <GIT_REMOTE> <BRANCH_NAME> . For Example git push -u origin master
-If You have created a branch that exists in remote, You will receive Everything up-to-date. Or a new branch will be created and pushed to the remote repo
+Set this branch track the remote. git push --set-upstream <GIT_REMOTE> <BRANCH_NAME> or simply git push -u <GIT_REMOTE> <BRANCH_NAME>
