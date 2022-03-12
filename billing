@@ -1,1 +1,2 @@
-Git: error: pathspec ‘<GIT_BRANCH>’ did not match any file(s) known to git.
+Git: error: pathspec ‘<GIT_BRANCH>’ did not match any file(s) known to git.Ever faced an issues while checking out to a branch that already exists.
+
