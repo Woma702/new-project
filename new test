@@ -1,0 +1,440 @@
+https://www.tutorialworks.com/devops-project-ideas/
+
+
+Tutorial Works logo
+DEVOPS KUBERNETES TECH ARTICLES ABOUT
+
+
+On this page
+
+How did we come up with these ideas?
+How to use these project ideas
+Practical DevOps Project Ideas
+Wrapping it up
+HOME  CAREER & BUSINESS
+DevOps Project Ideas
+Written by Tom Donohue 
+
+Updated: 22 February 2022
+
+Whether you’re moving into DevOps from a career as a sysadmin, or you’re looking to build your DevOps skills for an entry-level position, you might be feeling rather overwhelmed at the mountain of work in front of you! Let’s fix that, with some realistic project ideas that you can work on today to improve your skills. 💪
+
+You’re probably asking yourself this question:
+
+“HOW DO I GET BETTER AT DEVOPS?”
+If you’re not already in a DevOps position, another way to get some experience is to create some projects of your own.
+
+
+
+When we want to get better at any skill, we need to find opportunities for deliberate practice.
+
+From James Clear’s excellent blog on this topic:
+
+While regular practice might include mindless repetitions, deliberate practice requires focused attention and is conducted with the specific goal of improving performance.
+
+In a broad topic like DevOps, one of the best ways to get this deliberate practice is not to watch YouTube tutorials, or repeat step-by-step guides, but to build things.
+
+In other words, find problems that you can solve, and you’ll be learning without even realising it. This knowledge will help you get into a DevOps role.
+
+WHAT YOU CAN GAIN FROM DELIBERATE PRACTICE
+When you work on your own DevOps projects, you’ll learn how to:
+
+research new technologies
+read documentation and online resources
+find user communities and forums online
+troubleshoot issues (an extremely important skill!)
+break through knowledge barriers
+Advertisements
+
+…and you’ll leave with some projects which you can show off on your CV, resume, and GitHub profile.
+
+So in this article we’ll talk about a few different DevOps project ideas which will help you to flex your DevOps muscles and develop your skills.
+
+ON THIS PAGE
+How did we come up with these ideas?
+Inspiration from real world examples
+What employers want
+How to use these project ideas
+Let your curiosity guide you 🤔
+Focus on the tools that are in demand
+Point-and-click solutions are not allowed! 🚫
+Take your time
+Practical DevOps Project Ideas
+Project 1. A website
+Project 2. Create and run a CI/CD pipeline for an app
+Project 3. Deploy an application (with high availability) with a database
+Project 4. Create a monitoring dashboard for an application
+Project 5. Deploy a containerised application
+Project 6. Create an application with an API and deploy it to Kubernetes
+Wrapping it up
+Advertisements
+
+Before we get into it…. fancy sharing this article with your followers? It might help a friend make their first steps into DevOps, too.
+
+Advertisements
+
+Getting into DevOps? Check out these 6 project ideas you can work on to improve your skills.
+
+Click to Tweet Share on LinkedIn
+How did we come up with these ideas?
+These project ideas to help you get more practice with DevOps are devised based on two sources:
+
+real world scenarios in larger companies
+the person requirements in job ads.
+Inspiration from real world examples
+The project ideas listed here are based on examples from the real world. These are things that DevOps teams may already be doing, or be expected to do.
+
+The meaning of DevOps within enterprises varies massively, but most often it means creating cloud infrastructure with automation, and helping development teams deliver software reliably into the hands of users.
+
+So, these project ideas are all focused around deploying software, not just spending time setting up infrastructure.
+
+After all, the purpose of that cloud infrastructure is to actually deploy software that provides some value, not just tinker with virtual machines all day. 😉
+
+What employers want
+To make sure that these ideas are relevant, we also surveyed U.S. job site Indeed, looking at the skills required for current DevOps jobs. We found skills like these appeared quite often:
+
+“Provision and configure infrastructure through automation”
+
+“Ability to design implement Continuous Integration and Continuous Deployment pipelines”
+
+“Manage tasks through automated scripting”
+
+We then assigned these skills to each of these project ideas, to create some learning outcomes. These help you to bridge the gap between your current skillset, and the skillset that employers want.
+
+So, each project is based on something “real” and helps you to work on a skill. 🚀
+
+
+Going round in circles trying to understand DevOps?
+I'm writing a no-nonsense career handbook for aspiring DevOps engineers. It'll help you understand the skills and tools that really matter, so you can create your own roadmap, build your confidence and get on with your life. Coming Spring 2022.
+
+Click here to find out more - and pre-order
+
+How to use these project ideas
+These project ideas aren’t step-by-step guides. They’re high-level ideas, based on real world scenarios, and don’t recommend any specific tools.
+
+Let your curiosity guide you 🤔
+We’ve tried to avoid recommending any specific tools in these project ideas. There are far too many DevOps tools, platforms and cloud providers to choose from.
+
+Instead, let your curiosity take you down different paths. Use these broad, high-level ideas to go down rabbitholes, investigate, learn and gain hands-on experience.
+
+If you’re feeling overwhelmed about how to start, then narrow down the possibilities by starting with the tools that are in demand right now.
+
+Focus on the tools that are in demand
+To focus your energies, we recommend that you choose DevOps tools which are described in the job(s) you’re aspiring to.
+
+So check out job ads for your area, or the companies that you want to apply to, and find out which tech stacks they’re using.
+
+To take one of these ideas forward and get the maximum benefit, you might do something like this:
+
+Look at DevOps job ads in your area, or at your company. For example, in the U.S., you might look at a site like Indeed.
+
+Look at the technical requirements in the ads, to find out the most popular cloud providers and tools.
+
+Do some research about these tools, and how they fit into the DevOps toolkit.
+
+Focus your energies on implementing these projects using the same tools that are used in the real world.
+
+For example: if the DevOps job you want lists AWS, BitBucket and Ansible as required skills, then focus your energies on these.
+
+When you’re finished, you’ll have some code which you can commit into a Git repository, and which you can share with potential employers!
+
+And there is also one really important rule for all of these exercises:
+
+Point-and-click solutions are not allowed! 🚫
+That’s right. You can’t use web consoles or point-and-click to do these projects.
+
+You have to solve all these problems using scripting and automation. After all, automation is one of the core principles behind DevOps.
+
+You might choose your favourite automation tool (PowerShell, Ansible, Bash….) and implement your solution to each project. Or, if you’re using a cloud provider, you could use their own preferred automation tool, if they provide one.
+
+Advertisements
+
+Whichever tools you use, you should be able to tear down and destroy your infrastructure, and rebuild it by running your automation.
+
+So, if the worst happens, and your environment self-destructs (or your cat walks across your keyboard and somehow deletes everything), you can get it back up again quickly.
+
+Take your time
+Most of these projects will take you several hours to complete. (Or even days, if you’re very new to DevOps.)
+
+So don’t give up. Everybody has to start somewhere. Good luck! 🍀
+
+Practical DevOps Project Ideas
+So let’s get on with it! Here are SIX project ideas you can try building, when you’re learning about DevOps principles and practices.
+
+
+This is just a suggested list, not a complete curriculum. As you get more comfortable, feel free to add, remove and change the tasks, based on your interests!
+
+Project 1. A website
+Every company has a website. Some are more fancy than others. As an aspiring DevOps engineer, can you provision a web server with automation and publish a website onto it?
+
+Web server running on a virtual machine
+Set up a web server on a VM
+
+Web server running on a virtual machine by Tutorial Works is licensed under CC BY-SA 4.0
+
+Try creating a virtual server, deploy a web server onto it and configure networking and any necessary firewalls so that you can access the website.
+
+THIS PROJECT HELPS WITH THESE JOB REQUIREMENTS 👉
+📄 “Provision and configure infrastructure through automation”
+
+📄 “Required experience in Scripting Tools (eg PowerShell, Batch, etc)”
+
+📄 “Understanding of web application development, server deployment and upkeep, and general networking practices.”
+
+This project will also get you familiar with using commands on Linux or Windows. Not everyone has experience with the command line but you’ll definitely need to be comfortable in it for DevOps.
+
+SUGGESTED STEPS
+Create a Git repository to store your work
+Create (provision) a virtual machine (VirtualBox, Vagrant, etc.)
+Research and choose a web server and install it on the virtual machine
+Configure the web server to serve a static website (e.g. some basic HTML)
+Make sure you can access the website in your web browser
+Remember, you’ll need to use automation. No point-and-click allowed! 🚫
+
+What you’ll get from this project
+This will help you get a good grounding in server administration, if you don’t have it already. You’ll need to figure out things like: what is a web server? How do you use a package manager to install software?
+
+
+This is a great starting project because it has little or no cost. You can run virtual machines on your laptop, whether you are using Mac, Windows or Linux, so you won’t incur any costs from a cloud provider. If you really need to run this in the cloud, you could keep costs low, using something like AWS’s Free Tier.
+
+The great thing about using a virtual machine is that if you break it, you can always throw it away and create a new one.
+
+You’ll also need to learn how to use an automation tool, and write your first automation code.
+
+For extra credits 🎓
+If you’re a Windows person, try doing this on a Linux VM. If you’re a Linux person, try doing this on a Windows VM.
+
+If you want to solidify your Linux knowledge, you could try studying for a certification, such as Red Hat Certified Systems Administrator.
+
+Project 2. Create and run a CI/CD pipeline for an app
+Reliable delivery of software is one of the key tenets of DevOps; it’s one of the main reasons DevOps exists! So you need to know how to deliver software reliably through automation.
+
+
+
+Gone are the days of pointing and clicking manually to deploy software. You should know how to set up a pipeline, using one of the popular tools.
+
+THIS TASK HELPS WITH THESE JOB REQUIREMENTS 👉
+“Ability to design implement Continuous Integration and Continuous Deployment pipelines”
+SUGGESTED STEPS
+Research and choose a CI/CD tool. You’ll want either a SaaS CI/CD service with a free tier you can use for learning, or a self-hosted tool. If you choose self-hosted, you’ll need to deploy the tool (extra credits if you do this!)
+
+Find a project on GitHub, preferably a web application so that you can interact with it using a web browser. We recommend Spring Petclinic which is a Java web application developed in Spring Boot, but use any other project you’re familiar with.
+
+Fork the project into your personal GitHub account.
+
+Write a pipeline for your CI/CD tool, to test, compile & package the application. Run the pipeline in the CI/CD tool.
+
+Extend the pipeline to deploy it to a server (this is the “CD” part). You’ll need to research to learn how the application is deployed.
+
+What you’ll get from this project
+CI/CD is the bread-and-butter of DevOps. This project will get you to pick up a CI/CD tool, and write a pipeline of your own. (💎 Check out our article on the common stages in a CI/CD pipeline →)
+
+
+You’ll understand the concepts of CI/CD, get experience in configuring one tool, and writing a pipeline.
+
+There are lots of choices available for CI/CD; from Jenkins to GitLab, from GitHub Actions to Concourse. The choice can seem overwhelming.
+
+Pick a commonly-used tool (researching job ads will help you figure that out) and run with it. The most important thing is not to memorise every command or feature, but to get experience and understand the terminology.
+
+For extra credits 🎓
+Add code quality checking. Add a stage to your pipeline which checks code quality, using Sonarqube or another open source or free tool.
+
+Add a manual approval stage. Add a stage to your pipeline which requires a manual approval before deploying to production.
+
+Deploy an app which comprises a separate frontend and backend (so, two pipelines)
+
+Project 3. Deploy an application (with high availability) with a database
+Applications are usually deployed with high availability, so that if one instance of the app crashes, users can still access it.
+
+So you can try to recreate this common architecture yourself, by deploying an app with high availability, which requires a database backend.
+
+One of the most well-known applications is WordPress.
+
+THIS TASK HELPS WITH THESE JOB REQUIREMENTS 👉
+📄 “Build infrastructure as code and implement and test the automation.”
+
+📄 “Manage software configuration across environments using configuration-as-code principles”
+
+SUGGESTED STEPS
+Provision a VM and deploy an application (e.g. WordPress) + a database backend.
+
+Figure out how to provide database credentials to the application, through automation.
+
+Deploy a second instance of the application, pointing to the same database. Think about high-availability, so if you’re using public cloud, then deploy on 2+ availability zones, or if you’re just working locally then use 2 x VMs.
+
+Add a load balancer or reverse proxy to load-balance requests across the two instances, so that you have a single URL to access the application.
+
+What you’ll get from this project
+WordPress is one of the most-used pieces of software on the planet. Although you might not necessarily be asked to deploy it as a DevOps Engineer, it’s a good example to learn from, because it needs a database.
+
+
+You could deploy onto a public cloud, or privately onto separate virtual machines on your laptop.
+
+You’ll need to think about how to handle secrets (WordPress needs a database username and password). You’ll also think about high-availability, by deploying a second instance of WordPress in case the first one goes down. You’ll then need to add a component like a load balancer or reverse proxy, which will distribute requests between the live instances.
+
+As a bonus, you can even use your WordPress instance to publish your own blog.
+
+Remember, anything you don’t understand, you can always Google and find out.
+
+For extra credits 🎓
+Store the database credentials in an encrypted form using something like Ansible Vault. When you perform the deployment, fetch the credentials from Vault.
+
+Add a cron job which takes backups of the database.
+
+Deploy a separate, single instance of the application to a ‘dev’ or ‘test’ environment.
+
+Project 4. Create a monitoring dashboard for an application
+A huge part of DevOps that people often forget about is the idea of feedback loops.
+
+
+DevOps isn’t just about automating stuff. It’s about getting the most value out of software and that means constant measurement and improvement.
+
+A feedback loop is anything that can be measured and help to improve the quality of software; such as code quality or usage metrics.
+
+In this learning project, you add monitoring to an application by creating a dashboard.
+
+THIS TASK HELPS WITH THESE JOB REQUIREMENTS 👉
+Real-world job descriptions asked for these:
+
+📄 “Implement tools to improve traceability and performance monitoring of our applications.”
+
+📄 “Work with the development team to profile and optimize architecture and infrastructure”
+
+HOW TO GET THERE
+Deploy an application. You could use an application from the previous projects, or something else that you’re interested in.
+
+Research open source monitoring tools, and pick one. Or use the one provided by your cloud provider (e.g. AWS CloudWatch).
+
+Configure the application to expose some metrics, to show its health. Explore which metrics the application can expose; e.g. if it’s a web server, can you expose metrics like requests-per-second, or memory usage?
+
+Extract or scrape the metrics into a monitoring tool.
+
+Create a dashboard to display the metrics in real time.
+
+What you’ll get from this project
+This project will get you to investigate monitoring tools, and add instrumentation to servers and applications. You’ll need to research monitoring tools, find out how to gather metrics, and inject them into the tool.
+
+
+Along the way you’ll probably need to learn about time series databases, and how monitoring tools work. You might learn about tools like Nagios, Statsd, Prometheus, Graphite, Grafana and so on.
+
+You’ll also set up a dashboard – as metrics aren’t much use if you don’t visualise them and use them to act.
+
+For extra credits 🎓
+Add monitoring to your underlying infrastructure, too. So if you’re deploying onto virtual machines, then find a way to also monitor disk space, system load, etc.
+
+Use a load testing tool to hit your application with extra load. How does it affect the metrics in the dashboard?
+
+Project 5. Deploy a containerised application
+You’ve covered lots of the basics, and now it’s time to look at (Docker) containers. Containers are a common way to package an application and run it.
+
+In this project, try building a container image for an application and run it with a container engine, or deploy it to a container platform/PaaS.
+
+THIS EXPERIENCE HELPS WITH THESE JOB REQUIREMENTS 👉
+📄 “Experience with containerization tools such as Docker.”
+
+📄 “Technical understanding of virtualization and container architectures.”
+
+SUGGESTED STEPS
+Find a popular application on GitHub.
+
+Create a pipeline that builds a container image for the application and pushes it to a registry (e.g. Docker Hub, Amazon ECR, self-hosted Nexus container registry)
+
+Run the container image with a container engine - e.g. directly on a VM with Docker, or on a container platform like Amazon ECS, Kubernetes…
+
+What you’ll get from this project
+Containers are the standard for application packaging and deployment these days.
+
+
+You’ll need to learn about containers, how to build and run one, and do this as part of a pipeline.
+
+You’ll also need to know about container image registries, such as Amazon Elastic Container Registry, so that you can push an image.
+
+Finally you’ll be running the container on a server, or a container engine.
+
+Although there are just a couple of suggested steps, this will be a big task if you haven’t worked with containers before.
+
+For extra credits 🎓
+Deploy 2 instances of the container and load-balance between them.
+
+Use an orchestration tool like Docker Compose to ensure that the containers are automatically restarted if they are stopped.
+
+Try to deploy the containers onto Kubernetes.
+
+Project 6. Create an application with an API and deploy it to Kubernetes
+Create an application which exposes an API. Use your preferred language – Java, JavaScript, Python, whatever you’re comfortable with. Package the app into a container and deploy it to Kubernetes.
+
+SUGGESTED STEPS
+Pick a language (e.g. Go, Java, Python, .NET, etc.)
+
+Write (yes, code!) a basic application that exposes a REST or GraphQL API (e.g. a microservice). You can use the app generator by provided by the framework, if there is one, to create the initial scaffolding. Then, define your API.
+
+Create a build pipeline in your chosen CI/CD tool (e.g. Jenkins, GitLab, etc.) and add to the repository (pipeline-as-code)
+
+Extend the pipeline to build a container and deploy to Kubernetes.
+
+What you’ll get from this project
+A great DevOps Engineer has a good understanding of application code, as well as automation code.
+
+
+This project gets you writing some actual code, putting your mad DevOps pipeline skills to good use, and getting stuck into Kubernetes.
+
+DevOps is about Development AND Operations, right! So you should know how to code (at least somewhat).
+
+For extra credits 🎓
+Turn your project into a template that can be cloned by a developer. Look into your Git provider’s ‘template’ options (the ability to create a new repository from a template) and see how you would allow people to create their own apps from your template.
+Wrapping it up
+There you have it. Six DevOps project ideas, which you can work on in your personal development time, to cement your DevOps skills!
+
+At every stage, use the opportunity to research and learn. Read documentation, browse forums and check out videos.
+
+You’ll undoubtedly encounter issues and problems. It will be frustrating, but nobody became a great engineer by just following the happy path. You will the learn the most, when you’re deep in troubleshooting mode.
+
+Good luck with your DevOps projects. And if this article has inspired you, then please share with a friend or colleague.
+
+
+Want more? Read these articles next...
+You've found the end of another article! Keep on learning by checking out one of these articles:
+
+The Best Places to Learn & Try Kubernetes Online: Learning Kubernetes can seem challenging. But fear not! Here's a boatload of resources that will help you get there.
+
+The Big Guide to... Getting Into DevOps: DevOps is a confusing yet beguiling career choice. Find out how to start your career in DevOps with this guide.
+
+14 best practices for containerising your Java applications: Best practices to follow when building and running your Java application in a Docker container
+
+Why use Containers?: What are the benefits of using Docker containers, and what are containers used for?
+
+Linux for DevOps: What You Need to Know: Worried about touching a Linux terminal? Don't know where to start? Find out what you need to know about Linux for DevOps.
+
+Advertisements
+
+Ezoicreport this ad
+Advertisements
+
+Ezoicreport this ad
+Advertisements
+
+
+
+Tutorial Works is a website to help you navigate the world of IT, and grow your tech career, with tips, tutorials, guides, and real opinions.
+
+Thanks for being here today! 👋
+
+About this website
+Privacy policy
+Contact us
+CAREER
+Getting into DevOps
+DevOps Project Ideas
+TECHNOLOGIES
+Learn Kubernetes
+Top Linux Commands
+How Docker containers communicate
+Kubernetes Courses
+TOPICS
+What is DevOps?
+DevOps Roadmap
+DevOps Books
+Benefits of Containers
+Copyright © 2022 Tom Donohue. All rights reserved, except where stated.
+
+Tutorial Works is a participant in the Amazon.com Services LLC Associates Program. As an Amazon Associate we earn from qualifying purchases. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.
